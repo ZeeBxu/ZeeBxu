@@ -1,0 +1,1 @@
+while wait(0.02) do mouse1click() end
